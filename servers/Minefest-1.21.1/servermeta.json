@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/fefel/Documents/GitHub/nebula-neoforge/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "name (Minecraft 1.21.1)",
-    "description": "name Running Minecraft 1.21.1 (NeoForge v21.1.180)",
+    "name": "Minefest (Minecraft 1.21.1)",
+    "description": "Minefest Running Minecraft 1.21.1 (Fabric vlastest)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -14,8 +14,8 @@
     "mainServer": false,
     "autoconnect": false
   },
-  "neoforge": {
-    "version": "21.1.180"
+  "fabric": {
+    "version": "0.16.5"
   },
   "untrackedFiles": []
 }
