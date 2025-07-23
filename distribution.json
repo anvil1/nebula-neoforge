@@ -11,7 +11,7 @@
       "id": "Minefest-1.21.1",
       "name": "Minefest (Minecraft 1.21.1)",
       "description": "Minefest Running Minecraft 1.21.1 (Fabric vlastest)",
-      "icon": null,
+      "icon": "https://github.com/anvil1/minefestpriv-launcher12/blob/main/build/icon.png?raw=true",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.1",
@@ -114,6 +114,673 @@
               }
             }
           ]
+        },
+        {
+          "id": "squeek.appleskin:appleskin:3.0.6+mc1.21@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1082585,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/appleskin-fabric-mc1.21-3.0.6.jar",
+            "MD5": "a24c435e84973afd607e20395ecba19d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:controlling:19.0.5@jar",
+          "name": "Controlling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83679,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/Controlling-fabric-1.21.1-19.0.5.jar",
+            "MD5": "5660c1ed5fee202ca5ca9a617a4202b4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.8.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 469193,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/entityculling-fabric-1.8.2-mc1.21.jar",
+            "MD5": "b2d95424d5edd91ac5249656ba1242a3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.116.4+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2423497,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
+            "MD5": "aa1660d1af25eb18790182753f977615"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.6.4@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3708896,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/fancymenu_fabric_3.6.4_MC_1.21.1.jar",
+            "MD5": "5e91528b86ec466cdc26266b80b1667a"
+          }
+        },
+        {
+          "id": "net.dnlayu:fastboot:1.3@jar",
+          "name": "FastBoot",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 36993,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/fastboot-1.21.x-v1.3.jar",
+            "MD5": "3ae156a263b6493904e837a824e1ec3f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.2-hotfix@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120709,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/ferritecore-7.0.2-hotfix-fabric.jar",
+            "MD5": "6d381efd51de1cbbdb8070d346f32555"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.6.6+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228315,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
+            "MD5": "23f513c38ec1b93debbe808090e6a039"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2690177,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
+            "MD5": "1179fe09b9ba970e84ed59259adfe65a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "snownee.jade:jade:15.10.2+fabric@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 739001,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/Jade-1.21.1-Fabric-15.10.2.jar",
+            "MD5": "bdf93c186ea0916547520c4f6e65a233"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei:19.21.2.313@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1481367,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.21.2.313.jar",
+            "MD5": "442a2edae5e26973938265bd0d6e85b8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "jeresources:jeresources:1.6.0.17@jar",
+          "name": "Just Enough Resources",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 245461,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+            "MD5": "c45e83b9bad7cef22e78117fbc1e8fb1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ru.vidtu.ksyxis.loaders:ksyxis:1.3.3@jar",
+          "name": "Ksyxis",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 28483,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/Ksyxis-1.3.3.jar",
+            "MD5": "9c007fc4d85b75dc5ab910cd1f18f509"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.chachy.lazylanguageloader:lazy-language-loader:0.3.7@jar",
+          "name": "Lazy-language-loader",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 24354,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/lazy-language-loader-0.3.7.jar",
+            "MD5": "2f481b4ccdaf1ba740d0b8ddd125218f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:litematica:0.19.50@jar",
+          "name": "Litematica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1044263,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/litematica-fabric-1.21.1-0.19.50.jar",
+            "MD5": "1276e71906f58881b2ef0a9d45a161ea"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.26@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 75984,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/MouseTweaks-fabric-mc1.21-2.26.jar",
+            "MD5": "1d39ead1641ef522bc7ae92383f21da8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.lopymine:patpat:1.2.0+1.21.1@jar",
+          "name": "PatPat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1092828,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/PatPat-1.2.0+1.21.1.jar",
+            "MD5": "dd1bfad867bf556e75221e4f4318cb35"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.furq.resourcepackcached:rpc:1.1.3@jar",
+          "name": "ResourcePackCached",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13378,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/rpc-1.1.3+1.20.3-1.21.5-fabric.jar",
+            "MD5": "6918bc1b307fb156a153ab228c237861"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.soradgaming:simplehudenhanced:4.7.5@jar",
+          "name": "Simple Hud Enhanced",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1181642,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/simple-hud-enhanced+1.21-1.21.1-4.7.5.jar",
+            "MD5": "3333fceb07695ab9e8d96e951211c3b1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.8.2@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 868301,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/skinlayers3d-fabric-1.8.2-mc1.21.jar",
+            "MD5": "9367e1f79c1671f0b27339a9afc6c13c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:sodium-extra:0.6.0+mc1.21.1@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 373661,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+            "MD5": "a2aa3212fe6397f39984b8c9e840956a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1297761,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "MD5": "aa37ba0048a1af6b554b137088cad484"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "rynnavinx.sspb:sspb:4.0.0@jar",
+          "name": "Sodium Shadowy Path Blocks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 62392,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/sodium-shadowy-path-blocks-fabric-4.0.0.jar",
+            "MD5": "4b722b4037290337b41ed9deeb7ae1dc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:sodiumleafculling:1.0.1@jar",
+          "name": "Sodium Leaf Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 299711,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+            "MD5": "dcd45d991f20f9cf7eea66ef99621ef9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.ishland:vmp:0.2.0+beta.7.172+1.21.1@jar",
+          "name": "Very Many Players",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 433667,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+            "MD5": "f2186e75bdb5a19231e7fafdd27dc6e2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimapfair:24.2.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1502068,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/Xaeros_Minimap_FP24.2.1_Fabric_1.21.jar",
+            "MD5": "f3530c1d38a238ac7cf5f9885d1648cb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.library:fabric:api-0.116.4+1.21.1@jar",
+          "name": "fabric",
+          "type": "Library",
+          "artifact": {
+            "size": 2423497,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/fabric-api-0.116.4+1.21.1.jar",
+            "MD5": "aa1660d1af25eb18790182753f977615"
+          }
+        },
+        {
+          "id": "generated.library:konkrete_fabric_1.9.9_MC_1.21:0.0.0@jar",
+          "name": "konkrete_fabric_1.9.9_MC_1.21",
+          "type": "Library",
+          "artifact": {
+            "size": 786695,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/konkrete_fabric_1.9.9_MC_1.21.jar",
+            "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
+          }
+        },
+        {
+          "id": "generated.library:malilib:fabric-1.21.1-0.21.0@jar",
+          "name": "malilib",
+          "type": "Library",
+          "artifact": {
+            "size": 790339,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/malilib-fabric-1.21.1-0.21.0.jar",
+            "MD5": "0aa0ced9532179d99512c964515c58c7"
+          }
+        },
+        {
+          "id": "generated.library:melody_fabric_1.0.10_MC_1.21:0.0.0@jar",
+          "name": "melody_fabric_1.0.10_MC_1.21",
+          "type": "Library",
+          "artifact": {
+            "size": 188035,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/melody_fabric_1.0.10_MC_1.21.jar",
+            "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856"
+          }
+        },
+        {
+          "id": "generated.library:reeses:sodium-options-fabric-1.8.3+mc1.21.4@jar",
+          "name": "reeses",
+          "type": "Library",
+          "artifact": {
+            "size": 81067,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+            "MD5": "85f69ebd3bde2559ee53c01daa8e361e"
+          }
+        },
+        {
+          "id": "generated.library:Searchables:fabric-1.21.1-1.0.2@jar",
+          "name": "Searchables",
+          "type": "Library",
+          "artifact": {
+            "size": 79531,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/Searchables-fabric-1.21.1-1.0.2.jar",
+            "MD5": "33d8f858261d757ef89144ac13013987"
+          }
+        },
+        {
+          "id": "a.png",
+          "name": "a.png",
+          "type": "File",
+          "artifact": {
+            "size": 214275,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/a.png",
+            "MD5": "8dd607aac10bb084bbe3ac67c5f047ec",
+            "path": "config/fancymenu/assets/a.png"
+          }
+        },
+        {
+          "id": "click-21156.ogg",
+          "name": "click-21156.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 6844,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/click-21156.ogg",
+            "MD5": "a35a653e2d3e3cf86d0641f3740284de",
+            "path": "config/fancymenu/assets/click-21156.ogg"
+          }
+        },
+        {
+          "id": "d.png",
+          "name": "d.png",
+          "type": "File",
+          "artifact": {
+            "size": 207104,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/d.png",
+            "MD5": "5f9e3efb8d06dc71134d9fe3eb83513c",
+            "path": "config/fancymenu/assets/d.png"
+          }
+        },
+        {
+          "id": "image.png",
+          "name": "image.png",
+          "type": "File",
+          "artifact": {
+            "size": 3076328,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/image.png",
+            "MD5": "2fc635ebf289fc57ef90e1bbd99bbe86",
+            "path": "config/fancymenu/assets/image.png"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "c646f001e3312047405346b7e58edba2",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 23033,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "ba2ca42900a82c3cdb767b17c5ea8c51",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
+          }
+        },
+        {
+          "id": "title_screen_layout.txt",
+          "name": "title_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 30772,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "MD5": "404c39f39d81eebe31932d752b49f57d",
+            "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1971,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/options.txt",
+            "MD5": "59a117f18f64bfacf0f87a901f03bd84",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "3981f37966b00a80e31aac89169be280",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+          "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+          "type": "File",
+          "artifact": {
+            "size": 321871,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip",
+            "MD5": "9425263fea042911f13a1482f4c3f436",
+            "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+          }
+        },
+        {
+          "id": "Connected Texture+ V4.2.zip",
+          "name": "Connected Texture+ V4.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4181729,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Connected%20Texture+%20V4.2.zip",
+            "MD5": "33dbbbee98bf2d86a1ad6d73240b0969",
+            "path": "resourcepacks/Connected Texture+ V4.2.zip"
+          }
+        },
+        {
+          "id": "emissive-ores-1-21.zip",
+          "name": "emissive-ores-1-21.zip",
+          "type": "File",
+          "artifact": {
+            "size": 17858,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/emissive-ores-1-21.zip",
+            "MD5": "e67c706548008a774abd16577c91b750",
+            "path": "resourcepacks/emissive-ores-1-21.zip"
+          }
+        },
+        {
+          "id": "Entity Healthbars - Hearts.zip",
+          "name": "Entity Healthbars - Hearts.zip",
+          "type": "File",
+          "artifact": {
+            "size": 37472,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Entity%20Healthbars%20-%20Hearts.zip",
+            "MD5": "74f4fd6501d0dc5b951facfe79dd536e",
+            "path": "resourcepacks/Entity Healthbars - Hearts.zip"
+          }
+        },
+        {
+          "id": "Fast Better Grass.zip",
+          "name": "Fast Better Grass.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10930,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Fast%20Better%20Grass.zip",
+            "MD5": "317238a65a04b9faca29661afecc3bdf",
+            "path": "resourcepacks/Fast Better Grass.zip"
+          }
+        },
+        {
+          "id": "Fullbright.zip",
+          "name": "Fullbright.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2424887,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Fullbright.zip",
+            "MD5": "9c8e0038b50e928f44a17a7817b2667e",
+            "path": "resourcepacks/Fullbright.zip"
+          }
+        },
+        {
+          "id": "LowOnFire_1.21.zip",
+          "name": "LowOnFire_1.21.zip",
+          "type": "File",
+          "artifact": {
+            "size": 49533,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/LowOnFire_1.21.zip",
+            "MD5": "7e62a6ab8a8b8be792318b16dc162e33",
+            "path": "resourcepacks/LowOnFire_1.21.zip"
+          }
+        },
+        {
+          "id": "mb-3d-items-pack-1-10-0.zip",
+          "name": "mb-3d-items-pack-1-10-0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1911210,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/mb-3d-items-pack-1-10-0.zip",
+            "MD5": "dd7556dca5fe93ba7adce077822e8b68",
+            "path": "resourcepacks/mb-3d-items-pack-1-10-0.zip"
+          }
+        },
+        {
+          "id": "Mini Items.zip",
+          "name": "Mini Items.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14267,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Mini%20Items.zip",
+            "MD5": "75a2cce5ccd9e6ba658fd5ec5615793a",
+            "path": "resourcepacks/Mini Items.zip"
+          }
+        },
+        {
+          "id": "Nautilus3D-V2.2.zip",
+          "name": "Nautilus3D-V2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5598247,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/Nautilus3D-V2.2.zip",
+            "MD5": "18533070d68aec11b7b855bb78860385",
+            "path": "resourcepacks/Nautilus3D-V2.2.zip"
+          }
+        },
+        {
+          "id": "§d§lSimple Enchantments.zip",
+          "name": "§d§lSimple Enchantments.zip",
+          "type": "File",
+          "artifact": {
+            "size": 113115,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/resourcepacks/%C2%A7d%C2%A7lSimple%20Enchantments.zip",
+            "MD5": "5c026a6adde7410403e8d11f18ae7417",
+            "path": "resourcepacks/§d§lSimple Enchantments.zip"
+          }
         }
       ]
     }
