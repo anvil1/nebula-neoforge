@@ -348,13 +348,13 @@
           }
         },
         {
-          "id": "net.lopymine:patpat:1.2.0+1.21.1@jar",
+          "id": "net.lopymine:patpat:1.0.1+1.21.1@jar",
           "name": "PatPat",
           "type": "FabricMod",
           "artifact": {
-            "size": 1092828,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/PatPat-1.2.0+1.21.1.jar",
-            "MD5": "dd1bfad867bf556e75221e4f4318cb35"
+            "size": 845123,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/optionalon/PatPat-1.0.1+1.21.1.jar",
+            "MD5": "a3c4bce483a71751998cccda4ff28407"
           },
           "required": {
             "value": false
