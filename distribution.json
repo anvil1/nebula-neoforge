@@ -266,6 +266,16 @@
           }
         },
         {
+          "id": "de.keksuccino:konkrete:1.9.9@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 786695,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/konkrete_fabric_1.9.9_MC_1.21.jar",
+            "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
+          }
+        },
+        {
           "id": "ru.vidtu.ksyxis.loaders:ksyxis:1.3.3@jar",
           "name": "Ksyxis",
           "type": "FabricMod",
@@ -305,6 +315,26 @@
           }
         },
         {
+          "id": "fi.dy.masa:malilib:0.21.0@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 790339,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/malilib-fabric-1.21.1-0.21.0.jar",
+            "MD5": "0aa0ced9532179d99512c964515c58c7"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.10@jar",
+          "name": "Melody",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 188035,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/melody_fabric_1.0.10_MC_1.21.jar",
+            "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856"
+          }
+        },
+        {
           "id": "yalter.mousetweaks:mousetweaks:2.26@jar",
           "name": "Mouse Tweaks",
           "type": "FabricMod",
@@ -331,6 +361,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:reeses-sodium-options:1.8.3+mc1.21.4@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 81067,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+            "MD5": "85f69ebd3bde2559ee53c01daa8e361e"
+          }
+        },
+        {
           "id": "dev.furq.resourcepackcached:rpc:1.1.3@jar",
           "name": "ResourcePackCached",
           "type": "FabricMod",
@@ -341,6 +381,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:searchables:1.0.2@jar",
+          "name": "Searchables",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 79531,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/fabricmods/required/Searchables-fabric-1.21.1-1.0.2.jar",
+            "MD5": "33d8f858261d757ef89144ac13013987"
           }
         },
         {
@@ -445,66 +495,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.library:fabric:api-0.116.4+1.21.1@jar",
-          "name": "fabric",
-          "type": "Library",
-          "artifact": {
-            "size": 2423497,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/fabric-api-0.116.4+1.21.1.jar",
-            "MD5": "aa1660d1af25eb18790182753f977615"
-          }
-        },
-        {
-          "id": "generated.library:konkrete_fabric_1.9.9_MC_1.21:0.0.0@jar",
-          "name": "konkrete_fabric_1.9.9_MC_1.21",
-          "type": "Library",
-          "artifact": {
-            "size": 786695,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/konkrete_fabric_1.9.9_MC_1.21.jar",
-            "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
-          }
-        },
-        {
-          "id": "generated.library:malilib:fabric-1.21.1-0.21.0@jar",
-          "name": "malilib",
-          "type": "Library",
-          "artifact": {
-            "size": 790339,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/malilib-fabric-1.21.1-0.21.0.jar",
-            "MD5": "0aa0ced9532179d99512c964515c58c7"
-          }
-        },
-        {
-          "id": "generated.library:melody_fabric_1.0.10_MC_1.21:0.0.0@jar",
-          "name": "melody_fabric_1.0.10_MC_1.21",
-          "type": "Library",
-          "artifact": {
-            "size": 188035,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/melody_fabric_1.0.10_MC_1.21.jar",
-            "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856"
-          }
-        },
-        {
-          "id": "generated.library:reeses:sodium-options-fabric-1.8.3+mc1.21.4@jar",
-          "name": "reeses",
-          "type": "Library",
-          "artifact": {
-            "size": 81067,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
-            "MD5": "85f69ebd3bde2559ee53c01daa8e361e"
-          }
-        },
-        {
-          "id": "generated.library:Searchables:fabric-1.21.1-1.0.2@jar",
-          "name": "Searchables",
-          "type": "Library",
-          "artifact": {
-            "size": 79531,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/libraries/Searchables-fabric-1.21.1-1.0.2.jar",
-            "MD5": "33d8f858261d757ef89144ac13013987"
           }
         },
         {
