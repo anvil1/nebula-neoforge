@@ -490,9 +490,9 @@
           "type": "File",
           "artifact": {
             "size": 214275,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/a.png",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/assets/a.png",
             "MD5": "8dd607aac10bb084bbe3ac67c5f047ec",
-            "path": "config/fancymenu/assets/a.png"
+            "path": "config/assets/a.png"
           }
         },
         {
@@ -501,9 +501,9 @@
           "type": "File",
           "artifact": {
             "size": 6844,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/click-21156.ogg",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/assets/click-21156.ogg",
             "MD5": "a35a653e2d3e3cf86d0641f3740284de",
-            "path": "config/fancymenu/assets/click-21156.ogg"
+            "path": "config/assets/click-21156.ogg"
           }
         },
         {
@@ -512,9 +512,9 @@
           "type": "File",
           "artifact": {
             "size": 207104,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/d.png",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/assets/d.png",
             "MD5": "5f9e3efb8d06dc71134d9fe3eb83513c",
-            "path": "config/fancymenu/assets/d.png"
+            "path": "config/assets/d.png"
           }
         },
         {
@@ -523,9 +523,9 @@
           "type": "File",
           "artifact": {
             "size": 3076328,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/assets/image.png",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/assets/image.png",
             "MD5": "2fc635ebf289fc57ef90e1bbd99bbe86",
-            "path": "config/fancymenu/assets/image.png"
+            "path": "config/assets/image.png"
           }
         },
         {
@@ -534,9 +534,9 @@
           "type": "File",
           "artifact": {
             "size": 84,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/customizablemenus.txt",
             "MD5": "c646f001e3312047405346b7e58edba2",
-            "path": "config/fancymenu/customizablemenus.txt"
+            "path": "config/customizablemenus.txt"
           }
         },
         {
@@ -545,9 +545,9 @@
           "type": "File",
           "artifact": {
             "size": 23033,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/customization/pause_screen_layout.txt",
             "MD5": "ba2ca42900a82c3cdb767b17c5ea8c51",
-            "path": "config/fancymenu/customization/pause_screen_layout.txt"
+            "path": "config/customization/pause_screen_layout.txt"
           }
         },
         {
@@ -555,10 +555,10 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 30772,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "404c39f39d81eebe31932d752b49f57d",
-            "path": "config/fancymenu/customization/title_screen_layout.txt"
+            "size": 32981,
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/customization/title_screen_layout.txt",
+            "MD5": "1aebdfb451568376e9d8dea7e731a8a6",
+            "path": "config/customization/title_screen_layout.txt"
           }
         },
         {
@@ -567,9 +567,9 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
-            "path": "config/fancymenu/custom_gui_screens.txt"
+            "path": "config/custom_gui_screens.txt"
           }
         },
         {
@@ -578,9 +578,9 @@
           "type": "File",
           "artifact": {
             "size": 198,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/layout_editor/widgets/element_layer_control.lewidget",
             "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
-            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+            "path": "config/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
         {
@@ -589,9 +589,9 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/legacy_checklist.txt",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
-            "path": "config/fancymenu/legacy_checklist.txt"
+            "path": "config/legacy_checklist.txt"
           }
         },
         {
@@ -600,9 +600,9 @@
           "type": "File",
           "artifact": {
             "size": 1971,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/options.txt",
-            "MD5": "e2c6609a8e5a7400e5e9d48655d5faef",
-            "path": "config/fancymenu/options.txt"
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/options.txt",
+            "MD5": "59a117f18f64bfacf0f87a901f03bd84",
+            "path": "config/options.txt"
           }
         },
         {
@@ -611,9 +611,9 @@
           "type": "File",
           "artifact": {
             "size": 4133,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/ui_themes/dark.json",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/ui_themes/dark.json",
             "MD5": "3981f37966b00a80e31aac89169be280",
-            "path": "config/fancymenu/ui_themes/dark.json"
+            "path": "config/ui_themes/dark.json"
           }
         },
         {
@@ -622,9 +622,9 @@
           "type": "File",
           "artifact": {
             "size": 4135,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/ui_themes/light.json",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
-            "path": "config/fancymenu/ui_themes/light.json"
+            "path": "config/ui_themes/light.json"
           }
         },
         {
@@ -633,9 +633,9 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/user_variables.db",
+            "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
-            "path": "config/fancymenu/user_variables.db"
+            "path": "config/user_variables.db"
           }
         }
       ]
