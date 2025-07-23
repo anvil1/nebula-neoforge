@@ -555,9 +555,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 32981,
+            "size": 32975,
             "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "1aebdfb451568376e9d8dea7e731a8a6",
+            "MD5": "5005b63faa74c05d7699251f61681f02",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -599,9 +599,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1971,
+            "size": 1970,
             "url": "https://raw.githubusercontent.com/anvil1/nebula-neoforge/master/servers/Minefest-1.21.1/files/config/fancymenu/options.txt",
-            "MD5": "59a117f18f64bfacf0f87a901f03bd84",
+            "MD5": "0e049347bd65882348a3cc2ab566cbd9",
             "path": "config/fancymenu/options.txt"
           }
         },
